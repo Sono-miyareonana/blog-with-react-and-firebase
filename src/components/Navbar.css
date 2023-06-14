@@ -3,7 +3,7 @@ nav {
     justify-content: center;
     align-items: center;
     height: 50px;
-    background: #fca402;
+    background: #e9ab39f6;
     gap: 45px;
 }
 
@@ -15,4 +15,8 @@ nav a {
 
 nav a:hover {
     color: cadetblue;
+}
+
+nav a svg {
+    margin-right: 5px;
 }
